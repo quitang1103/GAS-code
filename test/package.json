@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-exec": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.76"
+  }
+}
